@@ -57,6 +57,11 @@ Each folder contains C++ source files (`.cpp`) for the respective lab.
 
   This repo is for learning purposes, but improvements and suggestions are always welcome!  
   Feel free to fork and submit pull requests.
+---
+
+   # **✨ Happy Coding! ✨**
+  
+  `Keep learning, keep building 🚀`\
 
   ## **📜 License**
 
