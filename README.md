@@ -52,11 +52,14 @@ Each folder contains C++ source files (`.cpp`) for the respective lab.
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
 
-##🤝 Contributions
 
-This repo is for learning purposes, but improvements and suggestions are always welcome!
-Feel free to fork and submit pull requests.
+  ## **🤝 Contributions**
 
-##📜 License
+  This repo is for learning purposes, but improvements and suggestions are always welcome!  
+  Feel free to fork and submit pull requests.
 
-This project is licensed under the MIT License – you are free to use, copy, and modify it for learning.
+  ## **📜 License**
+
+  This project is licensed under the **MIT License** – you are free to use, copy,  
+  and modify it for learning.
+
