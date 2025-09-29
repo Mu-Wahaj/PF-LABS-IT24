@@ -1,0 +1,9 @@
+an array consisting of intergers, sort the array in ascending order, you are required to fdo it withhout nested loop
+
+
+
+
+              take a matrix of N X N square matrix,
+    rotate it 90 degrees
+        without using xtra
+        matrix(break the logic in two functions)
