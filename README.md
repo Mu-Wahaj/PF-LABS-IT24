@@ -26,20 +26,19 @@ All labs are implemented in **C++** and cover the basics of programming, logic b
 ---
 
 ## 📂 Repository Structure
-LABS/
-│── lab1/
-│── lab2/
-│── lab3/
-│── lab4/
-│── lab5/
-│── lab6/
-│── lab7/
-│── lab8/
-│── lab9/
-│── lab10/
-│── lab11/
-│── Arrays/
-│── Pf-it24/
+  - lab1
+  - lab2
+  - lab3
+  - lab4
+  - lab5
+  - lab6
+  - lab7
+  - lab8
+  - lab9
+  - lab10
+  - lab11
+  - Arrays
+  - Pf-it24
 
 
 Each folder contains C++ source files (`.cpp`) for the respective lab.
