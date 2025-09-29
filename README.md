@@ -57,14 +57,17 @@ Each folder contains C++ source files (`.cpp`) for the respective lab.
 
   This repo is for learning purposes, but improvements and suggestions are always welcome!  
   Feel free to fork and submit pull requests.
+   ## **📜 License**
+
+
+  This project is licensed under the **MIT License** – you are free to use, copy,  
+  and modify it for learning.
+  
 ---
 
    # **✨ Happy Coding! ✨**
   
   `Keep learning, keep building 🚀`\
 
-  ## **📜 License**
-
-  This project is licensed under the **MIT License** – you are free to use, copy,  
-  and modify it for learning.
+ 
 
